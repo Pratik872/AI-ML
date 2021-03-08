@@ -1,2 +1,2 @@
 # AI-ML
-This repository contains all the concepts I have learnt to be a data scientist.
+This repository contains all the concepts I am learning to be a data scientist.
